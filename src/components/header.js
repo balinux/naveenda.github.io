@@ -25,7 +25,7 @@ const Header = (props) => {
             <Link href="/">Drawing</Link>
           </li>
           <li>
-            <Link href="https://twitter.com/NaveenDA_">Contact Me</Link>
+            <Link href="https://twitter.com/rio_7">Contact Me</Link>
           </li>
           <li>
             <ToggleTheme />
